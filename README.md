@@ -7,10 +7,6 @@
 - 📫 How to reach me: **1mustafa.dal@gmail.com**
 - 📝 I regularly write articles on **[https://www.mertmekatronik.com/profil/mustafadal](https://www.mertmekatronik.com/profil/mustafadal)**
 
-[![](https://img.shields.io/badge/pandas-cD1?style=cycle&logo=pandas)]()
-[![](https://img.shields.io/badge/Tensorflow-cD1?style=cycle&logo=tensorflow)]()
-[![](https://img.shields.io/badge/keras-cD1?style=cycle&logo=keras)]()
-
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 [![Merve Noyan](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://medium.com/@mustafa-dal)
@@ -26,3 +22,6 @@
 <a href="https://medium.com/@mustafa-dal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mustafa-dal" height="30" width="30" /></a>
 <a href="https://kaggle.com/mustafa0dal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mustafa0dal" height="30" width="30" /></a>
 </p>
+[![](https://img.shields.io/badge/pandas-cD1?style=cycle&logo=pandas)]()
+[![](https://img.shields.io/badge/Tensorflow-cD1?style=cycle&logo=tensorflow)]()
+[![](https://img.shields.io/badge/keras-cD1?style=cycle&logo=keras)]()
