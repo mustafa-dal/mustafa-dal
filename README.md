@@ -22,6 +22,5 @@
 <a href="https://medium.com/@mustafa-dal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mustafa-dal" height="30" width="30" /></a>
 <a href="https://kaggle.com/mustafa0dal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mustafa0dal" height="30" width="30" /></a>
 </p>
+
 [![](https://img.shields.io/badge/pandas-cD1?style=cycle&logo=pandas)]()
-[![](https://img.shields.io/badge/Tensorflow-cD1?style=cycle&logo=tensorflow)]()
-[![](https://img.shields.io/badge/keras-cD1?style=cycle&logo=keras)]()
