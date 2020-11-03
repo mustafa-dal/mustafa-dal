@@ -7,9 +7,9 @@
 - 📫 How to reach me: **1mustafa.dal@gmail.com**
 - 📝 I regularly write articles on **[https://www.mertmekatronik.com/profil/mustafadal](https://www.mertmekatronik.com/profil/mustafadal)**
 
-[![](https://img.shields.io/badge/pandas-cD1?style=triangle&logo=pandas)]()
-[![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
-[![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
+[![](https://img.shields.io/badge/pandas-cD1?style=cycle&logo=pandas)]()
+[![](https://img.shields.io/badge/Tensorflow-cD1?style=cycle&logo=tensorflow)]()
+[![](https://img.shields.io/badge/keras-cD1?style=cycle&logo=keras)]()
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
