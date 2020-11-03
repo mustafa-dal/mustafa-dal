@@ -16,8 +16,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true)
 
-[![](https://img.shields.io/badge/pandas-cD1?style=cycle&logo=pandas)]()
-
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p> <p align="center">
 <a href="https://twitter.com/mustafadal_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mustafa-dal" height="30" width="30" /></a>
