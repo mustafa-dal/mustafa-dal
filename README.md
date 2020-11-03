@@ -2,12 +2,12 @@
 <h3 align="center"> Computer Engineering Student, ML Learner </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-dal" alt="mustafa-dal" /> </p>
 
-<h1 align="center">
+<h4 align="center">
 #🌱 I’m currently learning Java Programming Language.
 #🤔 I’m looking for help with ...
 #💬 Don't ask me yet.
 #📫 How to reach me: **1mustafa.dal@gmail.com**
-#📝 I regularly write articles on [https://www.mertmekatronik.com/profil/mustafadal](https://www.mertmekatronik.com/profil/mustafadal) </h1>
+#📝 I regularly write articles on [https://www.mertmekatronik.com/profil/mustafadal](https://www.mertmekatronik.com/profil/mustafadal) </h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&theme=algolia&layout=compact&langs_count=8)
 
