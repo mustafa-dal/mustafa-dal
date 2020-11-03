@@ -1,9 +1,9 @@
-###                                                              Hi there 👋 I'm Mustafa
+<h1 align="center"> Hi there 👋 I'm Mustafa </h1>
+<h3 align="center"> Computer Engineering Student, ML Learner </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-dal" alt="mustafa-dal" /> </p>
 
 <!--
 **mustafa-dal/mustafa-dal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 #🌱 I’m currently learning Java Programming Language.
 #🤔 I’m looking for help with ...
