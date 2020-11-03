@@ -20,6 +20,6 @@
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-dal&show_icons=true" alt="mustafa-dal" /></p>
  <p align="center">
 <a href="https://twitter.com/mustafadal_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mustafa-dal" height="30" width="30" /></a>
-<a href="https://kaggle.com/mustafa0dal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mustafa0dal" height="30" width="30" /></a>
 <a href="https://medium.com/@mustafa-dal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mustafa-dal" height="30" width="30" /></a>
+<a href="https://kaggle.com/mustafa0dal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mustafa0dal" height="30" width="30" /></a>
 </p>
