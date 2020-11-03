@@ -7,6 +7,8 @@
 - 📫 How to reach me: **1mustafa.dal@gmail.com**
 - 📝 I regularly write articles on **[https://www.mertmekatronik.com/profil/mustafadal](https://www.mertmekatronik.com/profil/mustafadal)**
 
+[![](https://img.shields.io/badge/pandas-cD1?style=cycle&logo=pandas)]()
+
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 [![Merve Noyan](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://medium.com/@mustafa-dal)
