@@ -15,8 +15,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mustafa-dal&repo=github-readme-stats)
-
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&layout=compact&hide=html" alt="mustafa-dal" /></p>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-dal&show_icons=true" alt="mustafa-dal" /></p>
