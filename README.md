@@ -2,7 +2,7 @@
 <h3 align="center"> Computer Engineering Student, ML Learner </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-dal" alt="mustafa-dal" /> </p>
 
-<h4 align="center">
+<h4 align="left">
 #🌱 I’m currently learning Java Programming Language.
 #🤔 I’m looking for help with ...
 #💬 Don't ask me yet.
