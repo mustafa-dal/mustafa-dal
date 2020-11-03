@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on https://www.mertmekatronik.com/profil/mustafadal
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-dal&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&langs_count=8)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&langs_count=8)
