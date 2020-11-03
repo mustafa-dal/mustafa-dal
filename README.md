@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 #📫 How to reach me: 1mustafa.dal@gmail.com
 #📝 I regularly write articles on https://www.mertmekatronik.com/profil/mustafadal
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&theme=highcontrast&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&theme=algolia&layout=compact&langs_count=8)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=highcontrast&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true)
 
 
