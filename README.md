@@ -7,7 +7,7 @@
 - 📫 How to reach me: **1mustafa.dal@gmail.com**
 - 📝 I regularly write articles on **[https://www.mertmekatronik.com/profil/mustafadal](https://www.mertmekatronik.com/profil/mustafadal)**
 
-[![](https://img.shields.io/badge/pandas-cD1?style=round&logo=pandas)]()
+[![](https://img.shields.io/badge/pandas-cD1?style=triangle&logo=pandas)]()
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
