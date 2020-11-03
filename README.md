@@ -15,4 +15,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true)
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mustafa-dal&repo=github-readme-stats)
 
