@@ -8,8 +8,8 @@
 #🌱 I’m currently learning Java Programming Language.
 #🤔 I’m looking for help with ...
 #💬 Don't ask me yet.
-#📫 How to reach me: 1mustafa.dal@gmail.com
-#📝 I regularly write articles on https://www.mertmekatronik.com/profil/mustafadal
+#📫 How to reach me: **1mustafa.dal@gmail.com**
+#📝 I regularly write articles on [https://www.mertmekatronik.com/profil/mustafadal](https://www.mertmekatronik.com/profil/mustafadal)
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&theme=algolia&layout=compact&langs_count=8)
 
