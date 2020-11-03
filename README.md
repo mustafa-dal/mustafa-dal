@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&langs_count=8)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-dal&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=highcontrast&show_icons=true)
 
 
