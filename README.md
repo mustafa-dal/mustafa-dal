@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-dal" alt="mustafa-dal" /> </p>
 
 - 🌱 I’m currently learning **Java** Programming Language.
-- 💬 Don't ask me yet.
+- 💬 Ask me fundamental programming problems.
 - 📫 How to reach me: **1mustafa.dal@gmail.com**
 - 📝 I regularly write articles on **[https://www.mertmekatronik.com/profil/mustafadal](https://www.mertmekatronik.com/profil/mustafadal)**
 
