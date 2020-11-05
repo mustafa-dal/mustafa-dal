@@ -11,6 +11,12 @@
 <!-- BLOG-POST-LIST:START -->
 [![Merve Noyan](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://medium.com/@mustafa-dal)
 <!-- BLOG-POST-LIST:END -->
+### MertMekatronik
+* [NLP Nedir? - Doğal Dil İşleme](https://www.mertmekatronik.com/nlp-nedir)
+* [Temel Ağ Teorisi - Ağ Nedir?](https://www.mertmekatronik.com/temel-ag-teorisi)
+* [Python 3.9.0 - Python'a Son Gelen Özellikler](https://www.mertmekatronik.com/python-390)
+* [Azure Nedir?](https://www.mertmekatronik.com/azure-nedir)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&theme=algolia&layout=compact&langs_count=8)
 
