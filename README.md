@@ -24,10 +24,10 @@
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="bash" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p> <p align="center">
-<a href="https://twitter.com/mustafadal_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mustafa-dal" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/mustafa-dal1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mustafa-dal" height="30" width="30" /></a>
-<a href="https://medium.com/@mustafa-dal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mustafa-dal" height="30" width="30" /></a>
-<a href="https://kaggle.com/mustafa0dal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mustafa0dal" height="30" width="30" /></a>
+<a href="https://twitter.com/mustafadal_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mustafa-dal" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/mustafa-dal1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mustafa-dal" height="30" width="30" /></a>
+<a href="https://medium.com/@mustafa-dal" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mustafa-dal" height="30" width="30" /></a>
+<a href="https://kaggle.com/mustafa0dal" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mustafa0dal" height="30" width="30" /></a>
 </p>
 
 
