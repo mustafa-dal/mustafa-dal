@@ -9,7 +9,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[![Merve Noyan](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://medium.com/@mustafa-dal)
+[![Mustafa Dal](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://medium.com/@mustafa-dal)
 <!-- BLOG-POST-LIST:END -->
 ### MertMekatronik
 * [NLP Nedir? - Doğal Dil İşleme](https://www.mertmekatronik.com/nlp-nedir)
