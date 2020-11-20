@@ -12,6 +12,7 @@
 [![Mustafa Dal](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://medium.com/@mustafa-dal)
 <!-- BLOG-POST-LIST:END -->
 ### MertMekatronik
+* [HTML Nedir?](https://www.mertmekatronik.com/html-nedir)
 * [NLP Nedir? - Doğal Dil İşleme](https://www.mertmekatronik.com/nlp-nedir)
 * [Temel Ağ Teorisi - Ağ Nedir?](https://www.mertmekatronik.com/temel-ag-teorisi)
 * [Python 3.9.0 - Python'a Son Gelen Özellikler](https://www.mertmekatronik.com/python-390)
