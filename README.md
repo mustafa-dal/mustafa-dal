@@ -12,7 +12,7 @@
 [![Mustafa Dal](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://medium.com/@mustafa-dal)
 <!-- BLOG-POST-LIST:END -->
 ### MertMekatronik
-* [Julia Nedir? - Julia ile Kodlayalım] (https://www.mertmekatronik.com/julia-nedir)
+* <a href="https://www.mertmekatronik.com/julia-nedir" target="_blank">Julia Nedir? - Julia ile Kodlayalım</a>
 * <a href="https://www.mertmekatronik.com/html-nedir" target="_blank">HTML Nedir?</a>
 * [NLP Nedir? - Doğal Dil İşleme](https://www.mertmekatronik.com/nlp-nedir)
 * [Temel Ağ Teorisi - Ağ Nedir?](https://www.mertmekatronik.com/temel-ag-teorisi)
