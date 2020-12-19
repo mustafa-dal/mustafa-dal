@@ -5,13 +5,12 @@
 - 🌱 I’m currently learning **Java** Programming Language.
 - 💬 Ask me fundamental programming problems.
 - 📫 How to reach me: **1mustafa.dal@gmail.com**
-- 📝 I regularly write articles on **[https://www.mertmekatronik.com/profil/mustafadal](https://www.mertmekatronik.com/profil/mustafadal)**
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 [![Mustafa Dal](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://medium.com/@mustafa-dal)
 <!-- BLOG-POST-LIST:END -->
-### MertMekatronik
+### Blog
 * <a href="https://www.mertmekatronik.com/julia-nedir" target="_blank">Julia Nedir? - Julia ile Kodlayalım</a>
 * <a href="https://www.mertmekatronik.com/html-nedir" target="_blank">HTML Nedir?</a>
 * [NLP Nedir? - Doğal Dil İşleme](https://www.mertmekatronik.com/nlp-nedir)
