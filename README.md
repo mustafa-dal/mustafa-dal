@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 [![Mustafa Dal](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://medium.com/@mustafa-dal)
 <!-- BLOG-POST-LIST:END -->
-### Blog
+### Blogs
 * <a href="https://www.mertmekatronik.com/julia-nedir" target="_blank">Julia Nedir? - Julia ile Kodlayalım</a>
 * <a href="https://www.mertmekatronik.com/html-nedir" target="_blank">HTML Nedir?</a>
 * [NLP Nedir? - Doğal Dil İşleme](https://www.mertmekatronik.com/nlp-nedir)
