@@ -8,7 +8,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[![Mustafa Dal](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://medium.com/@mustafa-dal)
+[![Mustafa Dal](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://mustafa-dal.medium.com/)
 <!-- BLOG-POST-LIST:END -->
 ### Blogs
 * <a href="https://www.mertmekatronik.com/julia-nedir" target="_blank">Julia Nedir? - Julia ile Kodlayalım</a>
