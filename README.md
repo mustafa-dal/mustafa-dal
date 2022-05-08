@@ -9,10 +9,7 @@
 
 [![](https://img.shields.io/twitter/follow/mustafadal_?style=social)](https://www.twitter.com/mustafadal_)
 
-### Blog Posts
-<!-- BLOG-POST-LIST:START -->
-[![Mustafa Dal](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://mustafa-dal.medium.com/)
-<!-- BLOG-POST-LIST:END -->
+
 ### Blogs
 * <a href="https://www.mertmekatronik.com/julia-nedir" target="_blank">Julia Nedir? - Julia ile Kodlayalım</a>
 * <a href="https://www.mertmekatronik.com/html-nedir" target="_blank">HTML Nedir?</a>
@@ -25,7 +22,6 @@
 <p align="center">
 <a href="https://github.com/mustafa-dal">
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true" alt="mustafa-dal"/>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&theme=algolia&layout=compact&langs_count=8" alt="mustafa-dal"/>
 </a>
 </p>
 
