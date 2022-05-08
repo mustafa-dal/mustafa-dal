@@ -41,4 +41,8 @@
  <a href="https://kaggle.com/mustafa0dal" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="mustafa0dal" height="30" width="30" /></a>
 </p>
 
-
+<p align="center">
+<a href="https://github.com/mustafa-dal">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true" alt="mustafa-dal"/>
+</a>
+</p>
