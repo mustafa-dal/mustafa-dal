@@ -5,9 +5,9 @@
 - 💬 Ask me fundamental programming problems.
 - 📫 How to reach me: **1mustafa.dal@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-dal" alt="mustafa-dal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-dal" alt="mustafa-dal" /> [![](https://img.shields.io/twitter/follow/mustafadal_?style=social)](https://www.twitter.com/mustafadal_)
+</p>
 
-[![](https://img.shields.io/twitter/follow/mustafadal_?style=social)](https://www.twitter.com/mustafadal_)
 
 
 ### Blogs
