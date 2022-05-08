@@ -39,10 +39,10 @@
 </div>
 
 <p align="center">
-<a href="https://twitter.com/mustafadal_" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="mustafa-dal" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/mustafa-dal1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mustafa-dal" height="30" width="30" /></a>
-<a href="https://medium.com/@mustafa-dal" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="@mustafa-dal" height="30" width="30" /></a>
-<a href="https://kaggle.com/mustafa0dal" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="mustafa0dal" height="30" width="30" /></a>
+ <a href="https://twitter.com/mustafadal_" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="mustafa-dal" height="30" width="30" /></a>
+ <a href="https://www.linkedin.com/in/mustafa-dal1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mustafa-dal" height="30" width="30" /></a>
+ <a href="https://medium.com/@mustafa-dal" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="@mustafa-dal" height="30" width="30" /></a>
+ <a href="https://kaggle.com/mustafa0dal" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="mustafa0dal" height="30" width="30" /></a>
 </p>
 
 
