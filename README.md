@@ -6,9 +6,9 @@
 - 📫 How to reach me: **1mustafa.dal@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-dal" alt="mustafa-dal" /></p>
+
 [![](https://img.shields.io/twitter/follow/mustafadal_?style=social)](https://www.twitter.com/mustafadal_)
-
-
+[![](https://img.shields.io/github/followers/mustafa-dal?style=social)](https://www.github.com/mustafa-dal)
 
 ### Blogs
 * <a href="https://www.mertmekatronik.com/julia-nedir" target="_blank">Julia Nedir? - Julia ile Kodlayalım</a>
@@ -17,14 +17,6 @@
 * [Temel Ağ Teorisi - Ağ Nedir?](https://www.mertmekatronik.com/temel-ag-teorisi)
 * [Python 3.9.0 - Python'a Son Gelen Özellikler](https://www.mertmekatronik.com/python-390)
 * [Azure Nedir?](https://www.mertmekatronik.com/azure-nedir)
-
-
-<p align="center">
-<a href="https://github.com/mustafa-dal">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true" alt="mustafa-dal"/>
-</a>
-</p>
-
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </p> <p align="center">
