@@ -18,6 +18,7 @@
 * [Python 3.9.0 - Python'a Son Gelen Özellikler](https://www.mertmekatronik.com/python-390)
 * [Azure Nedir?](https://www.mertmekatronik.com/azure-nedir)
 
+### Skills
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </p> <p align="center">
 </p>
