@@ -41,7 +41,7 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/mustafadal_" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="mustafa-dal" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/mustafa-dal1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mustafa-dal" height="30" width="30" /></a>
 <a href="https://medium.com/@mustafa-dal" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="@mustafa-dal" height="30" width="30" /></a>
