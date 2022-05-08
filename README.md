@@ -24,8 +24,8 @@
 
 <p align="center">
 <a href="https://github.com/mustafa-dal">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true" alt="mustafa-dal"/>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&theme=algolia&layout=compact&langs_count=8" alt="mustafa-dal"/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true" alt="mustafa-dal"/>
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&theme=algolia&layout=compact&langs_count=8" alt="mustafa-dal"/>
 </a>
 </p>
 
