@@ -22,9 +22,6 @@
 * [Azure Nedir?](https://www.mertmekatronik.com/azure-nedir)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&theme=algolia&layout=compact&langs_count=8)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true)
 <p align="center">
 <a href="https://github.com/mustafa-dal">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true" alt="mustafa-dal"/>
