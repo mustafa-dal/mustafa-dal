@@ -6,6 +6,10 @@
 - 💬 Ask me fundamental programming problems.
 - 📫 How to reach me: **1mustafa.dal@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-dal" alt="mustafa-dal" /> </p>
+
+[![](https://img.shields.io/twitter/follow/mustafadal_?style=social)](https://www.twitter.com/mustafadal_)
+
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 [![Mustafa Dal](https://github-readme-medium.vercel.app/?username=mustafa-dal)](https://mustafa-dal.medium.com/)
@@ -22,6 +26,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-dal&theme=algolia&layout=compact&langs_count=8)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-dal&theme=algolia&show_icons=true)
+
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </p> <p align="center">
