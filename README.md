@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm Mustafa </h1>
 <h3 align="center"> Information Engineering Student, ML Learner </h3>
 
-- 🌱 I’m currently learning **Java** Programming Language.
+- 🌱 I’m currently learning **Machine Learning**.
 - 💬 Ask me fundamental programming problems.
 - 📫 How to reach me: **1mustafa.dal@gmail.com**
 
