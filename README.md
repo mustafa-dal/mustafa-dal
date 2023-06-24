@@ -10,13 +10,6 @@
 [![](https://img.shields.io/twitter/follow/mustafadal_?style=social)](https://www.twitter.com/mustafadal_)
 [![](https://img.shields.io/github/followers/mustafa-dal?style=social)](https://www.github.com/mustafa-dal)
 
-### Blogs
-* <a href="https://www.mertmekatronik.com/julia-nedir" target="_blank">Julia Nedir? - Julia ile Kodlayalım</a>
-* <a href="https://www.mertmekatronik.com/html-nedir" target="_blank">HTML Nedir?</a>
-* [NLP Nedir? - Doğal Dil İşleme](https://www.mertmekatronik.com/nlp-nedir)
-* [Temel Ağ Teorisi - Ağ Nedir?](https://www.mertmekatronik.com/temel-ag-teorisi)
-* [Python 3.9.0 - Python'a Son Gelen Özellikler](https://www.mertmekatronik.com/python-390)
-* [Azure Nedir?](https://www.mertmekatronik.com/azure-nedir)
 
 ### Skills
 <p align="left">
