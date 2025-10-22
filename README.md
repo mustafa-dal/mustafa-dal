@@ -1,5 +1,4 @@
 <h1 align="center"> Hi there 👋 I'm Mustafa </h1>
-<h3 align="center"> Information Engineering Student</h3>
 
 # 💫 About Me:
 📫 How to reach me: **1mustafa.dal@gmail.com**
